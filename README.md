@@ -15,7 +15,24 @@ If there is any other issue, please open up an issue on Github and not directly 
 
 Thank you
 
+# Update 04/22/2019
 
+The course has been completed. All assignment solutions are on the github. If there are any issues, open up a issue. If you think there are better or more elegant solutions, do a pull request or open an issue. Do keep in mind, all assignments are done on Rigetti's Forest framework and not IBM Q. If this course becomes available again in the future for UofT, I will temporarily make the repo privateto avoid any cheating (assuming assignments are kept the same). 
+
+# Acknowledgements
+
+Prof. Peter Wittek from the University of Toronto,
+
+Patrick Huembeli from the Institute of Photonic Sciences.
+
+Arthur Pesah from the KTH Royal Institute of Technology in Stockholm
+
+Any additional staff members part of the UTQML101x course team
+
+
+# Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to dicuss what you would like to change.
 
 
 -Sonam Ghosh
